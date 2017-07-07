@@ -1,0 +1,22 @@
+{
+  "name": "jjj",
+  "version": "1.0.0",
+  "description": "x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[Aserver.js\u001b[B"
+  },
+  "keywords": [
+    "git",
+    "ajax"
+  ],
+  "author": "yo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

@@ -1,0 +1,110 @@
+{
+	"usuarios":[
+		{
+			"nombre" : "Sandra Suárez Peralta",
+			"dni": "48367529",
+			"edad": "42",
+			"fecha de nacimiento": "15 de Enero de 1975",
+			"estado civil": "casada",
+			"hijos" : [
+				{
+					"nombre": "Carlos Rojas Gonzales", 
+					"edad": "6",
+					"fecha de nacimiento": "15 de Enero de 2011",
+					"lugar de nacimiento" : "Lima",
+					"cs donde nacio" : "Hospital Rebagliati",
+					"cs donde se atiende" : "Hospital Rebagliati"
+				},
+				{
+					"nombre": "Juan Rojas Suarez", 
+					"edad": "8",
+					"fecha de nacimiento": "20 de Febrero de 2009",
+					"lugar de nacimiento" : "Lima",
+					"cs donde nacio" : "Hospital Hipolito Unanue",
+					"cs donde se atiende" : "Hospital Hipolito Unanue"
+				},
+				{
+					"nombre": "Ana Rojas Suarez", 
+					"edad": "10",
+					"fecha de nacimiento": "01 de Marzo de 2007",
+					"lugar de nacimiento" : "Lima",
+					"cs donde nacio" : "Hospital del Niño",
+					"cs donde se atiende" : "Hospital del Niño"
+				}
+			],
+			"Mis Familiares" : [
+				{
+					"nombre": "Javier Rojas Peralta", 
+					"edad": "45",
+					"fecha de nacimiento": "20 de Noviembre 1972",
+					"lugar de nacimiento" : "Lima",
+					"cs donde nacio" : "Hospital Hipolito Unanue",
+					"cs donde se atiende" : "Hospital Hipolito Unanue"
+				}
+			],
+			"Personas que apodero" : [
+				{
+					"nombre": "Daniel Sánches Carrión", 
+					"edad": "15",
+					"fecha de nacimiento": "02 de Marzo de 2007",
+					"lugar de nacimiento" : "Lima",
+					"cs donde nacio" : "Hospital Hipolito Unanue",
+					"cs donde se atiende" : "Hospital Hipolito Unanue"
+				}
+			]
+		},
+		{
+			"nombre" : "Martha Carrillo Gonzales",
+			"dni": "48367529",
+			"edad": "42",
+			"fecha de nacimiento": "15 de Enero de 1975",
+			"estado civil": "casada",
+			"hijos" : [
+				{
+					"nombre": "Carlos Rojas Gonzales", 
+					"edad": "6",
+					"fecha de nacimiento": "15 de Enero de 2011",
+					"lugar de nacimiento" : "Lima",
+					"cs donde nacio" : "Hospital Rebagliati",
+					"cs donde se atiende" : "Hospital Rebagliati"
+				},
+				{
+					"nombre": "Juan Rojas Gonzales", 
+					"edad": "8",
+					"fecha de nacimiento": "20 de Febrero de 2009",
+					"lugar de nacimiento" : "Lima",
+					"cs donde nacio" : "Hospital Hipolito Unanue",
+					"cs donde se atiende" : "Hospital Hipolito Unanue"
+				},
+				{
+					"nombre": "Ana Rojas Gonzales", 
+					"edad": "10",
+					"fecha de nacimiento": "01 de Marzo de 2007",
+					"lugar de nacimiento" : "Lima",
+					"cs donde nacio" : "Hospital del Niño",
+					"cs donde se atiende" : "Hospital del Niño"
+				}
+			],
+			"Mis Familiares" : [
+				{
+					"nombre": "Javier Rojas Peralta", 
+					"edad": "45",
+					"fecha de nacimiento": "20 de Noviembre 1972",
+					"lugar de nacimiento" : "Lima",
+					"cs donde nacio" : "Hospital Hipolito Unanue",
+					"cs donde se atiende" : "Hospital Hipolito Unanue"
+				}
+			],
+			"Personas que apodero" : [
+				{
+					"nombre": "Daniel Sánches Carrión", 
+					"edad": "15",
+					"fecha de nacimiento": "02 de Marzo de 2007",
+					"lugar de nacimiento" : "Lima",
+					"cs donde nacio" : "Hospital Hipolito Unanue",
+					"cs donde se atiende" : "Hospital Hipolito Unanue"
+				}
+			]
+		}
+	]
+}
