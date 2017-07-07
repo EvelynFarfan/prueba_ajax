@@ -73,7 +73,8 @@ $(document).ready(function(){
                 console.log(data);
                 $(data.usuarios).each(function(index, value){
                     $(".mostrar").append("<div>" + value.nombre + "</div>")
-                    console.log(value.nombre);
+                    console.log(value.nombre[0].hijos);
+                    console.log(value)
                 })
             }
         })
