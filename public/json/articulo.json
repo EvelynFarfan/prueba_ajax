@@ -8,101 +8,117 @@
 			"estado civil": "casada",
 			"hijos" : [
 				{
-					"nombre": "Carlos Rojas Gonzales", 
-					"edad": "6",
-					"fecha de nacimiento": "15 de Enero de 2011",
-					"lugar de nacimiento" : "Lima",
-					"cs donde nacio" : "Hospital Rebagliati",
-					"cs donde se atiende" : "Hospital Rebagliati"
+					"nombre": "Carlos Rojas Suárez", 
+					"edad": "6 Años",
+					"genero": "masculino",
+					"fecha": "15 de Enero de 2011",
+					"lugar" : "Lima",
+					"dondeNacio" : "Hospital Rebagliati",
+					"seAtiende" : "Hospital Rebagliati",
+					"imagen" : "/vendors/img/hijo-01.jpg",
+					"imagenGender": "/vendors/img/gender_24.png",
+					"altGender" : "icono de género masculino"
 				},
 				{
-					"nombre": "Juan Rojas Suarez", 
-					"edad": "8",
-					"fecha de nacimiento": "20 de Febrero de 2009",
-					"lugar de nacimiento" : "Lima",
-					"cs donde nacio" : "Hospital Hipolito Unanue",
-					"cs donde se atiende" : "Hospital Hipolito Unanue"
+					"nombre": "Juan Rojas Suárez", 
+					"edad": "8 Años",
+					"genero": "masculino",
+					"fecha": "20 de Febrero de 2009",
+					"lugar" : "Lima",
+					"dondeNacio" : "Hospital Hipolito Unanue",
+					"seAtiende" : "Hospital Hipolito Unanue",
+					"imagen" : "/vendors/img/hijo-03.jpg",
+					"imagenGender": "/vendors/img/gender_24.png",
+					"altGender" : "icono de género masculino"
 				},
 				{
-					"nombre": "Ana Rojas Suarez", 
-					"edad": "10",
-					"fecha de nacimiento": "01 de Marzo de 2007",
-					"lugar de nacimiento" : "Lima",
-					"cs donde nacio" : "Hospital del Niño",
-					"cs donde se atiende" : "Hospital del Niño"
+					"nombre": "Ana Rojas Suárez",
+					"genero" : "femenino", 
+					"edad": "10 Años",
+					"fecha": "01 de Marzo de 2007",
+					"lugar" : "Lima",
+					"dondeNacio" : "Hospital del Niño",
+					"seAtiende" : "Hospital del Niño",
+					"imagen" : "/vendors/img/hijo-02.jpg",
+					"imagenGender": "/vendors/img/femenine_symbol_24.png",
+					"altGender" : "icono de género femenino"
 				}
 			],
 			"Mis Familiares" : [
 				{
 					"nombre": "Javier Rojas Peralta", 
-					"edad": "45",
-					"fecha de nacimiento": "20 de Noviembre 1972",
-					"lugar de nacimiento" : "Lima",
-					"cs donde nacio" : "Hospital Hipolito Unanue",
-					"cs donde se atiende" : "Hospital Hipolito Unanue"
+					"edad": "45 Años",
+					"genero": "masculino",
+					"fecha": "20 de Noviembre 1972",
+					"lugar" : "Lima",
+					"dondeNacio" : "Hospital Hipolito Unanue",
+					"seAtiende" : "Hospital Hipolito Unanue"
 				}
 			],
 			"Personas que apodero" : [
 				{
 					"nombre": "Daniel Sánches Carrión", 
-					"edad": "15",
-					"fecha de nacimiento": "02 de Marzo de 2007",
-					"lugar de nacimiento" : "Lima",
-					"cs donde nacio" : "Hospital Hipolito Unanue",
-					"cs donde se atiende" : "Hospital Hipolito Unanue"
+					"edad": "15 Años",
+					"genero": "m",
+					"fecha": "02 de Marzo de 2007",
+					"lugar" : "Lima",
+					"dondeNacio" : "Hospital Hipolito Unanue",
+					"seAtiende" : "Hospital Hipolito Unanue"
 				}
 			]
 		},
 		{
 			"nombre" : "Martha Carrillo Gonzales",
-			"dni": "48367529",
-			"edad": "42",
+			"dni": "78249638",
+			"edad": "32 Años",
 			"fecha de nacimiento": "15 de Enero de 1975",
 			"estado civil": "casada",
 			"hijos" : [
 				{
-					"nombre": "Carlos Rojas Gonzales", 
-					"edad": "6",
-					"fecha de nacimiento": "15 de Enero de 2011",
-					"lugar de nacimiento" : "Lima",
-					"cs donde nacio" : "Hospital Rebagliati",
-					"cs donde se atiende" : "Hospital Rebagliati"
+					"nombre": "José Flores Gonzales", 
+					"edad": "10 Años",
+					"genero": "masculino",
+					"fecha": "15 de Julio de 2005",
+					"lugar" : "Lima",
+					"dondeNacio" : "Hospital Almenara",
+					"seAtiende" : "Hospital Almenara",
+					"imagen" : "/vendors/img/hijo-04.jpg",
+					"imagenGender": "/vendors/img/gender_24.png",
+					"altGender" : "icono de género masculino"
 				},
 				{
-					"nombre": "Juan Rojas Gonzales", 
-					"edad": "8",
-					"fecha de nacimiento": "20 de Febrero de 2009",
-					"lugar de nacimiento" : "Lima",
-					"cs donde nacio" : "Hospital Hipolito Unanue",
-					"cs donde se atiende" : "Hospital Hipolito Unanue"
-				},
-				{
-					"nombre": "Ana Rojas Gonzales", 
-					"edad": "10",
-					"fecha de nacimiento": "01 de Marzo de 2007",
-					"lugar de nacimiento" : "Lima",
-					"cs donde nacio" : "Hospital del Niño",
-					"cs donde se atiende" : "Hospital del Niño"
+					"nombre": "Mahal Flores Gonzales", 
+					"edad": "8 Años",
+					"genero": "femenino",
+					"fecha": "07 de Marzo 2007",
+					"lugar" : "Lima",
+					"dondeNacio" : "Hospital Neoplasicas",
+					"seAtiende" : "Hospital Neoplasicas",
+					"imagen" : "vendors/img/hijo-06.jpg",
+					"imagenGender": "/vendors/img/femenine_symbol_24.png",
+					"altGender" : "icono de género femenino"
 				}
 			],
 			"Mis Familiares" : [
 				{
 					"nombre": "Javier Rojas Peralta", 
-					"edad": "45",
-					"fecha de nacimiento": "20 de Noviembre 1972",
-					"lugar de nacimiento" : "Lima",
-					"cs donde nacio" : "Hospital Hipolito Unanue",
-					"cs donde se atiende" : "Hospital Hipolito Unanue"
+					"edad": "45 Años",
+					"genero": "masculino",
+					"fecha": "20 de Noviembre 1972",
+					"lugar" : "Lima",
+					"dondeNacio" : "Hospital Hipolito Unanue",
+					"seAtiende" : "Hospital Hipolito Unanue"
 				}
 			],
 			"Personas que apodero" : [
 				{
 					"nombre": "Daniel Sánches Carrión", 
-					"edad": "15",
-					"fecha de nacimiento": "02 de Marzo de 2007",
-					"lugar de nacimiento" : "Lima",
-					"cs donde nacio" : "Hospital Hipolito Unanue",
-					"cs donde se atiende" : "Hospital Hipolito Unanue"
+					"edad": "15 Años",
+					"genero": "masculino",
+					"fecha": "02 de Marzo de 2007",
+					"lugar" : "Lima",
+					"dondeNacio" : "Hospital Hipolito Unanue",
+					"seAtiende" : "Hospital Hipolito Unanue"
 				}
 			]
 		}
